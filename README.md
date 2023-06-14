@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **VedPrajapati99@engineer.com**
 
-- ⚡ A quote **Any fool can write code that a computer can understand. Good programmers write code that humans can understand.**
+- ⚡ A quote **Any fool can write code that a computer can understand Good programmers write code that humans can understand.**
 
 <h3 align="left"></h3>
 <p align="left">
