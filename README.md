@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedprajapati99&label=Profile%20views&color=0e75b6&style=flat" alt="vedprajapati99" /> </p>
 
-- 🔭 I’m currently working on **A automated bot for clicks**
+- 🔭 I’m currently working on **A file encrypter**
 
 - 🌱 I’m currently learning **AWS Certified Security**
 
