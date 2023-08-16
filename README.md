@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedprajapati99&label=Profile%20views&color=0e75b6&style=flat" alt="vedprajapati99" /> </p>
 
-- 🔭 I’m currently working on **A file encrypter**
+- 🔭 I’m currently working on **Sharepoint API**
 
-- 🌱 I’m currently learning **AWS Certified Security**
+- 🌱 I’m currently learning **IBM Cybersecurity Analyst**
 
 - 👯 I’m looking to collaborate on Github **Cyber Sec. Projects**
 
