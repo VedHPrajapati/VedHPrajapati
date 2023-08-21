@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-sigma-five.vercel.app//api?username=VedPrajapati99&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VedPrajapati99&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VedPrajapati99&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VedPrajapati99&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
