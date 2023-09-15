@@ -1,5 +1,5 @@
 # 📂 About Me:
-🔭 I’m currently working on Sharepoint API<br>🌱 I’m currently learning IBM Cybersecurity Analyst<br>👯 I’m looking to collaborate on Github Cyber Sec. Projects<br>👨‍💻 All of my Repositories are available on https://github.com/VedPrajapati99<br>💬 Ask me about Cyber Security<br>📖 My Favourite book is Hacking The Art of Exploitation
+🔭 I’m currently working on  Nothing <br>🌱 I’m currently learning IBM Cybersecurity Analyst<br>👯 I’m looking to collaborate on Github Cyber Sec. Projects<br>👨‍💻 All of my Repositories are available on https://github.com/VedPrajapati99<br>💬 Ask me about Cyber Security<br>📖 My Favourite book is Hacking The Art of Exploitation
 
 
 ## 🌐 Socials:
