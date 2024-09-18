@@ -13,7 +13,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-sigma-five.vercel.app//api?username=VedPrajapati9&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br>
+![](https://github-readme-stats-sigma-five.vercel.app//api?username=VedHPrajapati&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VedHPrajapati&theme=tokyonight&hide_border=false)
 
 ## 🏆 GitHub Trophies
