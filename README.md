@@ -1,10 +1,6 @@
 # 📂 About Me:
-🔭 I’m currently exploring various cybersecurity topics and methodologies.<br>
-🌱 Currently advancing my skills in IBM Cybersecurity Analyst certification.<br>
-👯 Open to collaborating on cybersecurity projects on GitHub.<br>
-👨‍💻 Find my repositories at [GitHub/VedHPrajapati](https://github.com/VedHPrajapati).<br>
-💬 Ask me anything about Cyber Security.<br>
-📖 Currently absorbed in "Hacking: The Art of Exploitation."
+🔭 I’m currently exploring AWS.<br>
+🌱 Currently advancing my skills in Amazon Cloud Services.<br>
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18560864)
